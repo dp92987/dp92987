@@ -1,4 +1,16 @@
-### Hi there 👋
+![Hits](https://hits.twentythree.ru/dp92987.svg)
+
+### Hi there 👋🏻
+
+#### Informational Projects
+
+- [Coursera Catalog](https://github.com/dp92987/CourseraCatalog) - Coursera courses and specializations catalog
+- [Go Videos](https://github.com/dp92987/go-videos) - meetup and educational videos related to Go
+
+#### Open to Network
+
+- tg: [@daniilpetrov](https://t.me/daniilpetrov)
+- in: [daniilpetrov](https://www.linkedin.com/in/daniilpetrov/)
 
 <!--
 **dp92987/dp92987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
