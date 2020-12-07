@@ -1,4 +1,4 @@
-![Hits](https://hits.twentythree.ru/dp92987.svg)
+[![hits](https://hits.twentythree.ru/dp92987.svg)](https://hits.twentythree.ru/dp92987.svg)
 
 ### Hi there 👋🏻
 
