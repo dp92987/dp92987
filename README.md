@@ -2,7 +2,9 @@
 
 ### Hi there 👋🏻
 
-#### Informational Projects
+### My Projects
+
+- [Hits Badge](https://github.com/dp92987/HitsBadge) - Hits counter badge for GitHub
 
 - [Coursera Catalog](https://github.com/dp92987/CourseraCatalog) - Coursera courses and specializations catalog
 - [Go Videos](https://github.com/dp92987/go-videos) - meetup and educational videos related to Go
