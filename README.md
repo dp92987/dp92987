@@ -4,9 +4,12 @@
 
 ### My Projects
 
-- [Hits Badge](https://github.com/dp92987/HitsBadge) - hits counter badge for GitHub
-- [Coursera Catalog](https://github.com/dp92987/CourseraCatalog) - Coursera courses and specializations catalog
-- [Go Videos](https://github.com/dp92987/go-videos) - meetup and educational videos related to Go
+- [Hits Badge](https://github.com/dp92987/hits-badge) - hits counter badge for GitHub
+
+### Informational
+
+- [Coursera Catalog](https://github.com/dp92987/coursera-catalog) - Coursera courses and specializations catalog
+- [Go Videos](https://github.com/dp92987/go-videos-ru) - meetup and educational videos related to Go
 
 #### Open to Network
 
