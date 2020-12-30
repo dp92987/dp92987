@@ -4,14 +4,11 @@
 
 ### My Projects
 
-- [Hits Badge](https://github.com/dp92987/hits-badge) - hits counter badge for GitHub
-
-### Informational
-
-- [Coursera Catalog](https://github.com/dp92987/coursera-catalog) - Coursera courses and specializations catalog
+- [Hits Badge](https://github.com/dp92987/hits-badge) - hits counter badge
 - [Go Videos](https://github.com/dp92987/go-videos-ru) - meetup and educational videos related to Go
+- [Coursera Catalog](https://github.com/dp92987/coursera-catalog) - Coursera courses and specializations catalog
 
-#### Open to Network
+### Open to Network
 
 - tg: [@daniilpetrov](https://t.me/daniilpetrov)
 - in: [daniilpetrov](https://www.linkedin.com/in/daniilpetrov/)
