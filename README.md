@@ -1,4 +1,4 @@
-[![hits](https://hits.deltapapa.io/dp92987.svg)](https://github.com/dp92987/hits-badge)
+[![hits](https://hits.deltapapa.io/github/dp92987/dp92987.svg)](https://hits.deltapapa.io)
 
 ### Hi there 👋🏻
 
