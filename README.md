@@ -5,10 +5,8 @@
 ### My Projects
 
 - [Hits Badge](https://github.com/dp92987/hits-badge) - hits counter badge
-
 - [Go Videos](https://github.com/dp92987/go-videos-ru) - meetup and educational videos related to Go
 - [Coursera Catalog](https://github.com/dp92987/coursera-catalog) - Coursera courses and specializations catalog
-
 - [go blog()](https://t.me/golangblog) - Go-related Telegram channel
 
 ### Open to Network
