@@ -6,9 +6,9 @@
 - [Hits Badge](https://github.com/dp92987/hits-badge) - hits counter badge
 
 ### Informational
-- [Golang Talks](https://github.com/dp92987/golang-talks) - Go tech talks
-- [Go Videos](https://github.com/dp92987/go-videos-ru) - Go tech talks and other educational videos in Russian
-- [Coursera Catalog](https://github.com/dp92987/coursera-catalog) - Coursera courses and specializations catalog
+- [Golang Talks](https://github.com/dp92987/golang-talks) - tech talks related to Go
+- [Go Videos](https://github.com/dp92987/go-videos-ru) - tech talks and other related to Go videos in Russian
+- [Coursera Catalog](https://github.com/dp92987/coursera-catalog) - catalog of all courses and specializations on Coursera
 
 ### Blog
 - [go blog()](https://t.me/golangblog) - Go-related Telegram channel
