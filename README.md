@@ -3,12 +3,8 @@
 ### Hi there 👋🏻
 
 ### My Projects
-- [Hits Badge](https://github.com/dp92987/hits-badge) - hits counter badge
-
-### Informational
 - [Golang Talks](https://github.com/dp92987/golang-talks) - tech talks related to Go
 - [Go Videos](https://github.com/dp92987/go-videos-ru) - tech talks and other related to Go videos (Russian)
-- [Coursera Catalog](https://github.com/dp92987/coursera-catalog) - catalog of all courses and specializations on Coursera
 
 ### Blogs
 - [Oh My Go!](https://t.me/ohmygolang) - Go-related Telegram channel
